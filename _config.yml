@@ -15,15 +15,15 @@ footer: Your Website
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://twitter.com/takimoto_uki
+  - title: Acfun
+    url: http://www.acfun.cn/v/ac4230646
+  - title: Bilibili
+    url: http://space.bilibili.com/10812880
+  - title: Baidu“newgame”bar
+    url: https://tieba.baidu.com/f?kw=newgame&fr=ala0&loc=rec
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/TakimotoUki
 
 # Build settings
 markdown: kramdown
