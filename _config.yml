@@ -1,8 +1,8 @@
 # Site settings
 title: Grayscale
-email: your-email@domain.com
+email: takimotouki@outlook.com
 url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Welcome to my home page.Here,you can find something about me and you can download something about Adobe.This is just a test page,so maybe I won't change it from now on. "
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -10,7 +10,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: uki
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
