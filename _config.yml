@@ -1,7 +1,6 @@
 # Site settings
 title: Welcome to my page!
 email: takimotouki@outlook.com
-url: https://example.github.io
 description: "<center>欢迎来到我的个人主页</center><br /><center>在这里你能了解我，下载到Adobe相关插件</center><br /><center>网页为测试用，之后可能不会再编辑了</center>"
 
 # Color settings (hex-codes without the leading hash-tag)
