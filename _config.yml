@@ -1,7 +1,7 @@
 # Site settings
 title: Welcome to my page!
 email: takimotouki@outlook.com
-description: "<center>欢迎来到我的个人主页</center><br /><center>在这里你能了解我，找到我的联系方式</center><br /><center>网页为测试用，之后可能不会再编辑了</center>"
+description: "<center>欢迎来到我的个人主页</center><br /><center>在这里你能更了解我，找到我的联系方式</center><br /><center>网页为测试用，之后可能不会再编辑了</center>"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -19,8 +19,8 @@ social:
     url: https://weibo.com/takimotouki
   - title: instagram
     url: https://www.instagram.com/takimotouki
-  - title: tumblr
-    url: https://takimotouki.tumblr.com
+  - title: pixiv
+    url: https://www.pixiv.net/bookmark.php?id=31962927 
   - title: github
     url: https://github.com/TakimotoUki
 
