@@ -1,8 +1,8 @@
 # Site settings
-title: Grayscale
+title: Welcome to my page!
 email: takimotouki@outlook.com
 url: https://example.github.io
-description: "Welcome to my home page.Here,you can find something about me and you can download something about Adobe.This is just a test page,so maybe I won't change it from now on. "
+description: "<center><font color="#000000">Welcome to my page.</font></center> <br /><center><font color="#000000">You can find something about me and download something about Adobe here.</font></center><br /><center><font color="#000000">This is just a test page,so maybe I will never change it forever. </font></center>"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
