@@ -1,14 +1,14 @@
 # Site settings
-title: Welcome to my page!
+title: TakimotoUki's Page
 email: takimotouki@hotmail.com
-description: "<center>欢迎来到我的个人主页</center><br /><center>在这里你能更加了解我，找到我的联系方式</center><br /><center>网页仅为测试用</center>"
+description: "<center>欢迎来到我的个人主页</center><br /><center>在这里你能更加了解我，找到我的联系方式</center><br /><center>网页暂为测试用</center>"
 
-# Color settings (hex-codes without the leading hash-tag)
+# Color settings
 color:
   primary-dark: '#412c1c'
   links: '#219ab3'
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# Social networks usernames
 social:
   - title: twitter
     url: https://twitter.com/takimoto_uki
@@ -16,8 +16,8 @@ social:
     url: https://weibo.com/takimotouki 
   - title: instagram
     url: https://www.instagram.com/takimotouki
-  - title: telegram
-    url: https://t.me/takimotouki
+  - title: tumblr
+    url: https://www.tumblr.com/blog/takimotouki
   - title: github
     url: https://github.com/TakimotoUki
 
